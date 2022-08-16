@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ramnarayan-Kotagiri/Ramnarayan-Kotagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +19,8 @@ JavaScript | AWS | NoSQL | MEAN Stack | Image Processing
 
 <b><i>Let's connect! Find me on the web.</i></b>
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][https://twitter.com/Seshu_Kotagiri]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/ramnarayan-kotagiri/]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Seshu_Kotagiri)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramnarayan-kotagiri/)
 <br />
 <hr />
 
